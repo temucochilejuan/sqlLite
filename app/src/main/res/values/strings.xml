@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SqlLite</string>
+    <string name="et_Nombre">Nombre</string>
+    <string name="et_Apellido">Apellido</string>
+    <string name="et_Email">Email</string>
+    <string name="et_Telefono">Teléfono</string>
+    <string name="et_Ciudad">Cuidad</string>
+    <string name="btnAgregar">Agregar</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="btnEditar">Editar</string>
+    <string name="btnEliminar">Eliminar</string>
+    <string name="txtNombre">Nombre: </string>
+    <string name="txtApellido">Apellido: </string>
+    <string name="txtEmail">Email: </string>
+    <string name="txtTelefono">Teléfono: </string>
+    <string name="txtCiudad">Cuidad: </string>
+    <string name="btnSalir">Salir</string>
+    <string name="btnDetalles">Detalles</string>
+
+</resources>
